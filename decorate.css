@@ -1,0 +1,43 @@
+.head_text {
+    font-size: 150%;
+    color: aqua;
+    text-align: center;
+}
+.head_text:hover{
+    color: red;
+}
+
+.currentResolution_text{
+    text-align: center;
+    color: red;
+}
+
+.worldTime_text{
+    text-align: center;
+    color: red;
+}
+
+.button_cotainer{
+    text-align: center;
+}
+
+.image_container {
+    opacity: 50%;
+    transition: 2s;
+    border: 5px outset red;
+    display: inline-block;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.image_container:hover {
+    opacity: 100%;
+    background-color: white;
+
+}
+
+.text_InContainer {
+    text-align: center;
+}
