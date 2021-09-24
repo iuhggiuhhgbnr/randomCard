@@ -32,6 +32,13 @@
     margin-right: 5%;
 }
 
+@media screen and (max-width: 412px) {
+    .image_container {
+        background-color: black;
+        margin-left: 15%;
+    }
+  }
+
 .image_container:hover {
     opacity: 100%;
     background-color: white;
